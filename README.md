@@ -39,15 +39,15 @@
 
 ---
 
-## 🌐 支持平台
+## 🌐 支持平台及下載地址
 
-| 平台        | 支持狀態      |
-|-------------|---------------|
-| **Windows** | ✅ 完全支持    |
-| **macOS**   | ✅ 完全支持    |
-| **iOS**     | ✅ 完全支持    |
-| **Android** | ✅ 完全支持    |
-| **Web**     | ✅ 完全支持    |
+| 平台        | 支持狀態      | 下載地址                                                                 |
+|-------------|---------------|------------------------------------------------------------------------|
+| **Windows** | ✅ 完全支持    | [下載 Windows 客戶端]((https://easylink-buzz-bento.oss-cn-hongkong.aliyuncs.com/EasyLink_Windows_V1.exe))         |
+| **macOS**   | ✅ 完全支持    | [下載 macOS 客戶端]((https://easylink-buzz-bento.oss-cn-hongkong.aliyuncs.com/EasyLink_macOS_V1.dmg))             |
+| **iOS**     | ✅ 完全支持    | [TestFlight 下載]((https://testflight.apple.com/join/D3qVcY1h)) |
+| **Android** | ✅ 完全支持    | [下載 apk 安裝包]((https://easylink-downloadable.nyc3.cdn.digitaloceanspaces.com/EasyLink_android_V1.apk)) |
+| **Web**     | ✅ 完全支持    | [Chrome 插件](https://easylink.buzz) 
 
 ---
 
